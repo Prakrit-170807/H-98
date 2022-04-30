@@ -1,1 +1,1 @@
-text from file 1
+HIsr/local/bin/python3 "/Users/prakritmaan/Library/Mobile Documents/com~apple~CloudDocs/Coding/PYTHON/Home project/H-98/main.py"
